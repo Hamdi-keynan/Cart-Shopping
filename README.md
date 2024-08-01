@@ -19,7 +19,7 @@ To set up the shopping cart application, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/shopping-cart-app.git
+git clone https://github.com/Hamdi-keynan/Cart-Shopping
 
 
 2. Navigate to the project directory:

@@ -13,7 +13,7 @@ A shopping cart is an essential component of e-commerce platforms, enabling user
 - Payment integration
 - Checkout process
 
-## Installation
+## Installation 
 
 To set up the shopping cart application, follow these steps:
 
@@ -37,6 +37,6 @@ npm install
 npm run dev
 
 
-5. Open your web browser and visit http://localhost:3000 to access the shopping cart application.
+5. Open your web browser and visit http://localhost:5173to access the shopping cart application.
 
 This shopping cart application is built using Vite, a fast and efficient development tool for modern web applications.
